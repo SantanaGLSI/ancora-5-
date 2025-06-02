@@ -1,6 +1,9 @@
-#Flautinha{
-    img-align:center
-    img-width:50%
+#Flautinha {
+    width: 300px;
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+}
     }
 
 
